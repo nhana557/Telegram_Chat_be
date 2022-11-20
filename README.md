@@ -3,16 +3,16 @@
 </div>
 <h3 align="center">Telegram Chat API</h3>
 <p align="center">
-  <!-- <a href="https://nibiru-chat.herokuapp.com/">View API Demo</a>
+   <a href="https://telegramchatbe-production.up.railway.app">View API Demo</a> 
   ·
-  <a href="https://github.com/andry-pebrianto/nibiruchat-api/issues">Report Bug</a> -->
+  <a href="https://github.com/nhana557/Telegram_Chat_be/issues">Report Bug</a> -->
 </p>
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-This is a Restful API repository for Nibiru Chat. This Restful API is built using ExpressJS and PostgreSQL.
+This is a Restful API repository for Telegram Chat. This Restful API is built using ExpressJS and PostgreSQL.
 
 ### Technology Used
 
@@ -27,7 +27,7 @@ This is a Restful API repository for Nibiru Chat. This Restful API is built usin
 
 ### Installation
 
-<!-- - Clone this project with `git clone https://github.com/andry-pebrianto/nibiruchat-api.git` -->
+- Clone this project with `git clone https://github.com/nhana557/Telegram_Chat_be.git`
 - Install package required with `npm install`
 - Setting .env
 
@@ -61,16 +61,16 @@ DRIVE_REFRESH_TOKEN=
 
 - Run program with `npm run dev` for development and `npm run start` for production
 
-## Endpoint List
+<!-- ## Endpoint List
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/13299472-95b35893-0243-4e38-aa85-c16051da1c37?action=collection%2Ffork&collection-url=entityId%3D13299472-95b35893-0243-4e38-aa85-c16051da1c37%26entityType%3Dcollection%26workspaceId%3Dfe5f6a4d-a8db-4a39-9852-e54fd7754e4c)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/13299472-95b35893-0243-4e38-aa85-c16051da1c37?action=collection%2Ffork&collection-url=entityId%3D13299472-95b35893-0243-4e38-aa85-c16051da1c37%26entityType%3Dcollection%26workspaceId%3Dfe5f6a4d-a8db-4a39-9852-e54fd7754e4c) -->
 
 <!-- RELATED PROJECT -->
 
 ## Related Project
 
 <!-- - [Nibiru Chat Client](https://github.com/andry-pebrianto/nibiruchat-client)
-- [Nibiru Chat Demo](https://nibiruchat.netlify.app/) -->
+- [Nibiru Chat Demo](https://nibiruchat.netlify.app/)  -->
 
 ## Authors
 
@@ -78,8 +78,6 @@ Contributors names and contact info:
 
 1. Taryana
 
-<!-- - [Linkedin](https://www.linkedin.com/in/andry-pebrianto) -->
+- [Linkedin](https://www.linkedin.com/in/taryana10/)
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
